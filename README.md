@@ -120,6 +120,13 @@ Need a custom template for your specific use case? We offer custom template deve
 
 Earn 30% commission on template sales by referring customers to our template collection.
 
+## Want to Learn More?
+
+Check out my comprehensive API integration learning materials:
+
+- **[API Integration Master Guide](https://codetoday.gumroad.com/l/APIMasterGuide)** - Complete guide from zero to production (PDF + EPUB)
+- **[API Integration Master Course](https://codetoday.gumroad.com/l/APIMasterCourse)** - Self-paced course with projects and exercises
+
 ---
 
 **Built by developers, for developers. Save time, ship faster.**
